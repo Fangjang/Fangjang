@@ -1,4 +1,4 @@
-##Hi there, I'm Fangjang - aka Fandy
+## Hi there, I'm Fangjang - aka Fandy
 
 ##I'm a student who finds joy in coding.
 - I'm currently learning C++ with SFML, HTML and CSS.
