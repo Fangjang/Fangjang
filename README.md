@@ -5,7 +5,8 @@
 - Fun Fact: I love to play guitar and soccer.
 
 ## Connect with me:
-[instagram]
+[instagram] 
+<br />
 [youtube]
 <br />
 <br />
