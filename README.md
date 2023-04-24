@@ -1,4 +1,4 @@
-## Hi there, I'm Fangjang - aka Fandy
+## Hi there, I'm Fangjang Limbbu - friends call me Fandy
 
 ##I'm a student who finds joy in coding.
 
